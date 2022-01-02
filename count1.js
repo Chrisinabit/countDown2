@@ -6,7 +6,7 @@ const hrsEl = document.getElementById("hrs");
 const minEl = document.getElementById("min");
 const secEl = document.getElementById("sec");
 
-const newYear = "1 Jan 2022";
+const newYear = "1 Jan 2023";
 
 
 function countDown() {
